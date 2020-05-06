@@ -13,7 +13,8 @@
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
     "express-handlebars": "^3.1.0",
-    "request": "^2.88.0"
+    "request": "^2.88.0",
+    "handlebars": ">=4.3.0"
   },
   "devDependencies": {
     "nodemon": "^1.19.1"
